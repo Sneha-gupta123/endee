@@ -1,0 +1,98 @@
+product,category,description,price,store
+Rice,Grains,medium,50,sanu store
+Basmati Rice,Grains,Long grain aromatic rice,120,Sharma Store
+Regular Rice,Grains,Daily cooking rice,90,Gupta Store
+Brown Rice,Grains,Healthy whole grain rice,140,Ravi Mart
+Wheat Flour,Grains,Whole wheat flour for chapati,60,Sharma Store
+Multigrain Flour,Grains,Healthy multigrain flour mix,80,City Mart
+Maida,Grains,Refined flour for baking,55,Gupta Store
+Semolina,Grains,Sooji for halwa and upma,45,Ravi Mart
+Poha,Grains,Flattened rice breakfast food,50,Sharma Store
+Besan,Grains,Gram flour for pakoras,70,City Mart
+Corn Flour,Grains,Fine corn flour,65,Gupta Store
+Oats,Breakfast,High fiber breakfast oats,90,Ravi Mart
+Cornflakes,Breakfast,Crispy breakfast cereal,110,City Mart
+Muesli,Breakfast,Nutritious cereal with dry fruits,180,Ravi Mart
+Milk,Dairy,Fresh full cream milk,60,Gupta Store
+Curd,Dairy,Fresh probiotic curd,50,Sharma Store
+Butter,Dairy,Creamy dairy butter,55,Ravi Mart
+Paneer,Dairy,Fresh cottage cheese,80,City Mart
+Cheese,Dairy,Processed cheese slices,120,Gupta Store
+Ghee,Dairy,Pure clarified butter,450,City Mart
+Cooking Oil,Oil,Refined sunflower oil,150,Sharma Store
+Mustard Oil,Oil,Pure mustard cooking oil,170,Gupta Store
+Soybean Oil,Oil,Light soybean cooking oil,140,Ravi Mart
+Olive Oil,Oil,Healthy olive oil,500,City Mart
+Sugar,Essentials,Refined white sugar,50,Gupta Store
+Salt,Essentials,Iodized table salt,20,Sharma Store
+Tea Powder,Beverages,Strong tea leaves,220,Ravi Mart
+Coffee,Beverages,Instant coffee powder,250,City Mart
+Milk Powder,Beverages,Dried milk powder,320,Sharma Store
+Mango Juice,Beverages,Sweet mango drink,70,Ravi Mart
+Orange Juice,Beverages,Citrus orange juice,75,City Mart
+Apple,Fruits,Fresh red apples,120,Gupta Store
+Banana,Fruits,Fresh ripe bananas,50,Ravi Mart
+Orange,Fruits,Juicy vitamin C oranges,80,City Mart
+Mango,Fruits,Sweet seasonal mango,140,Sharma Store
+Papaya,Fruits,Ripe papaya fruit,60,Gupta Store
+Watermelon,Fruits,Juicy watermelon,45,Ravi Mart
+Pomegranate,Fruits,Fresh pomegranate seeds,160,City Mart
+Grapes,Fruits,Seedless green grapes,90,Sharma Store
+Pear,Fruits,Fresh juicy pear fruit,120,Gupta Store
+Guava,Fruits,Fresh guava rich in fiber,70,Ravi Mart
+Potato,Vegetables,Fresh potatoes for cooking,30,Sharma Store
+Onion,Vegetables,Fresh onions for curries,35,Gupta Store
+Tomato,Vegetables,Fresh tomatoes for cooking,40,Ravi Mart
+Carrot,Vegetables,Fresh carrots rich in vitamins,45,City Mart
+Cabbage,Vegetables,Green cabbage vegetable,30,Sharma Store
+Cauliflower,Vegetables,Fresh cauliflower florets,50,Gupta Store
+Spinach,Vegetables,Fresh spinach leaves,25,Ravi Mart
+Capsicum,Vegetables,Green capsicum pepper,60,City Mart
+Brinjal,Vegetables,Fresh eggplant vegetable,40,Sharma Store
+Bottle Gourd,Vegetables,Healthy lauki vegetable,35,Gupta Store
+Biscuits,Snacks,Crunchy tea time biscuits,40,Sharma Store
+Cream Biscuits,Snacks,Sweet cream biscuits,50,Ravi Mart
+Chocolate Biscuits,Snacks,Chocolate flavored biscuits,60,City Mart
+Potato Chips,Snacks,Crispy salted chips,30,Sharma Store
+Nachos,Snacks,Corn nachos snack,70,Gupta Store
+Namkeen,Snacks,Spicy snack mixture,50,Ravi Mart
+Popcorn,Snacks,Butter popcorn kernels,65,City Mart
+Instant Noodles,Snacks,Quick cooking noodles,45,Sharma Store
+Pasta,Snacks,Italian pasta for cooking,90,Gupta Store
+Macaroni,Snacks,Small pasta macaroni,85,Ravi Mart
+Tomato Ketchup,Sauces,Tomato sauce for snacks,120,City Mart
+Chilli Sauce,Sauces,Spicy chilli sauce,130,Sharma Store
+Soy Sauce,Sauces,Savory soy sauce,140,Gupta Store
+Mayonnaise,Sauces,Creamy mayo sauce,180,Ravi Mart
+Turmeric Powder,Spices,Ground turmeric spice,60,City Mart
+Red Chilli Powder,Spices,Hot red chilli powder,70,Sharma Store
+Coriander Powder,Spices,Aromatic coriander powder,65,Gupta Store
+Cumin Seeds,Spices,Whole cumin seeds spice,90,Ravi Mart
+Garam Masala,Spices,Indian spice blend,110,City Mart
+Black Pepper,Spices,Whole black peppercorns,120,Sharma Store
+Cardamom,Spices,Green cardamom spice,300,Gupta Store
+Cloves,Spices,Aromatic cloves spice,250,Ravi Mart
+Cinnamon,Spices,Cinnamon sticks spice,200,City Mart
+Almonds,Dry Fruits,Healthy almonds nuts,750,Sharma Store
+Cashews,Dry Fruits,Premium cashew nuts,820,Gupta Store
+Raisins,Dry Fruits,Sweet dried raisins,300,Ravi Mart
+Pistachios,Dry Fruits,Green pistachio nuts,900,City Mart
+Dates,Dry Fruits,Natural sweet dates,250,Sharma Store
+Detergent Powder,Household,Laundry detergent powder,180,Gupta Store
+Dishwash Liquid,Household,Utensil cleaning liquid,120,Ravi Mart
+Floor Cleaner,Household,Disinfectant floor cleaner,200,City Mart
+Toilet Cleaner,Household,Bathroom cleaning liquid,150,Sharma Store
+Handwash,Household,Antibacterial handwash,90,Gupta Store
+Bath Soap,Personal Care,Moisturizing bath soap,40,Ravi Mart
+Shampoo,Personal Care,Hair cleaning shampoo,180,City Mart
+Hair Oil,Personal Care,Nourishing hair oil,140,Sharma Store
+Toothpaste,Personal Care,Fluoride toothpaste,120,Gupta Store
+Toothbrush,Personal Care,Soft bristle toothbrush,40,Ravi Mart
+Face Wash,Personal Care,Gentle face cleanser,160,City Mart
+Body Lotion,Personal Care,Moisturizing lotion,220,Sharma Store
+Sanitary Pads,Personal Care,Women hygiene pads,120,Gupta Store
+Tissue Paper,Household,Soft tissue paper rolls,100,Ravi Mart
+Garbage Bags,Household,Disposable garbage bags,80,City Mart
+Matchbox,Household,Match sticks box,10,Sharma Store
+Candles,Household,Wax candles for light,50,Gupta Store
+Battery Cells,Household,AA batteries pack,120,Ravi Mart
